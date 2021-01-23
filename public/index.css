@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+
+body {
+  background: #209CEE;
+  color: white;
+}
+
+form {
+  padding: 70px 0;
+  text-align: center;
+  font-family: 'Leckerli One';
+}
+
+input[name="title"], input[name="message"], input[name="mins"] {
+  border-radius: 10px 10px 10px 10px;
+}
+
+input[type="submit"] {
+  font-family: 'Leckerli One';
+  border-radius: 10px 10px 10px 10px;
+}
